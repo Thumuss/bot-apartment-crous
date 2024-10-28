@@ -16,9 +16,9 @@ You need [bun.sh](https://bun.sh) to use this app.
 
 Copy `.env.example` and rename it to `.env`, then update the values as needed.
 
-After that, run the app with the following command:
+After that, run the app with the following commands:
 ```bash
-bun run src/index.ts
+bun install && bun run src/index.ts
 ```
 
 ## BLC Commands
