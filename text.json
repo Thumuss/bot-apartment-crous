@@ -1,0 +1,6 @@
+{
+    "fr-FR": {
+        "noNewApartment": "%nb appartement(s) trouvé(s)", 
+        "newApartment": "%nb appartement(s) trouvé(s), il y a un/de nouvel/nouveaux appartement(s) %authors" 
+    }
+}
